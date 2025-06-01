@@ -1,0 +1,11 @@
+{
+  "name": "ferreteriav0",
+  "version": "1.0.0",
+  "description": "ferreteria gestin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose luis corrales rojas",
+  "license": "ISC"
+}
